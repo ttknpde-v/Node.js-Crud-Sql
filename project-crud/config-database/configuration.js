@@ -5,10 +5,10 @@
         #privateDB = { /* private attribute */
             /* in js using (#) for private */
             host:"127.0.0.1" ,
-            username:"thitikorn_db" ,
-            password:"Architecture.890.098",
+            username:"***" ,
+            password:"***",
             port:"3307" ,
-            dataName:"employee"
+            dataName:"***"
         }
 
         get #getModuleMysSql () { /* private method */
